@@ -8,7 +8,7 @@ A highly motivated Web Developer and Software Engineer with a solid foundation f
 ## 🚀 Skills & Technologies
 
 ### Languages
-- **Java** (JavaFX, Spring Boot)
+- **Java** (JavaFX)
 - **Python**
 - **JavaScript** (React, Angular)
 - **SQL**
