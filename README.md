@@ -1,4 +1,4 @@
-Here's a personalized note based on your CV:
+
 
 # Hello, 🌍 I'm Taniya 👋
 
@@ -56,5 +56,4 @@ I’m always open to collaborating on exciting projects, especially those focuse
 - **Email**: taniyapathirana05@gmail.com
 
 ## ⚡ Fun Facts
-- Sci-fi enthusiast with a love for "Dune" by Frank Herbert.  
 - Passionate about hiking and exploring nature.
