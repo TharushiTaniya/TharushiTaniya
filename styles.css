@@ -1,0 +1,39 @@
+/* Basic styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1b1b1b;
+    color: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Text motion effect for the about section */
+.about p, .skills ul, .projects p {
+    opacity: 0;
+    animation: textMotion 3s ease-in-out forwards;
+}
+
+/* Keyframes for fade-in effect */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* Keyframes for text motion */
+@keyframes textMotion {
+    0% { transform: translateY(20px); opacity: 0; }
+    100% { transform: translateY(0); opacity: 1; }
+}
