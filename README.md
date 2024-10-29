@@ -1,63 +1,60 @@
-# Hello, World! 🌍 I'm [Your Name] 👋
+Here's a personalized note based on your CV:
 
-## 🌟 About Me
-Welcome to my corner of the internet! I'm a **software developer** with a passion for crafting elegant solutions and intuitive user interfaces. My journey into tech began with a simple curiosity about how things work, and it has evolved into a love for **Java** development, particularly using **Swing** to create stunning desktop applications.
+# Hello, 🌍 I'm Taniya 👋
 
-When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or sharing knowledge with others in the community. My goal is to not just build software but to create experiences that resonate with users.
+🌟 About Me  
+A highly motivated Web Developer and Software Engineer with a solid foundation from the Institute of Technology, University of Moratuwa. Skilled in creative thinking, teamwork, and problem-solving, I'm dedicated to applying my knowledge to solve real-world challenges. I enjoy contributing to dynamic projects and continuously keep up with emerging technology trends to deliver effective solutions.
 
 ## 🚀 Skills & Technologies
+
 ### Languages
-- **Java** (Swing, Spring Boot)
-- **Python** (Flask, Data Analysis)
-- **JavaScript** (React, Node.js)
-- **SQL** (MySQL, PostgreSQL)
+- **Java** (JavaFX, Spring Boot)
+- **Python**
+- **JavaScript** (React, Angular)
+- **SQL**
+
+### Web Development
+- **HTML**, **CSS**, **SCSS**, **TypeScript**
 
 ### Frameworks & Libraries
-- **Swing**: Crafting intuitive desktop applications.
-- **Spring Boot**: Building robust and scalable web applications.
-- **Flask**: Developing lightweight web applications.
+- **React**: Building modern web applications.
+- **Angular**: Crafting dynamic UIs.
+- **Spring Boot**: Developing scalable web services.
 
 ### Tools & Technologies
-- **IDEs**: NetBeans, IntelliJ IDEA
-- **Version Control**: Git, GitHub, Bitbucket
-- **Containerization**: Docker
+- **IDEs**: NetBeans, VS Code
+- **Version Control**: Git, GitHub
+- **Front-end Development**: JavaScript, TypeScript
 
 ## 🏆 Notable Projects
-### 🗂️ [Task Manager Pro](https://github.com/yourusername/task-manager)
-A powerful Java-based task management application that allows users to organize, prioritize, and track their tasks effortlessly. Features include:
-- Intuitive user interface built with Swing.
-- Local database integration for persistent data storage.
-- Task reminders and notifications.
 
-### 🌐 [API Hub](https://github.com/yourusername/api-hub)
-A RESTful API developed using Spring Boot that offers various endpoints for user management and data retrieval. Key features:
-- Secure user authentication with JWT.
-- CRUD operations for managing resources.
-- Comprehensive API documentation.
+### 🥾 [Stride-Smart Footwear Supply Chain](https://github.com/TharushiTaniya/stride-smart)
+A system designed for efficient order monitoring and reduced workplace losses for a footwear company.  
+- Utilized **ReactJS**, **NodeJS**, **SQL**, and **Flutter** for a seamless user experience.
 
-### 🎮 [Retro Game Collection](https://github.com/yourusername/retro-games)
-A fun project where I developed a collection of retro-style games using Java. Includes:
-- Classic arcade games reimagined for the modern era.
-- Local multiplayer support for family fun.
-- Game leaderboard system.
+### 📚 [Library Management System](https://github.com/TharushiTaniya/library-system)
+A Java-based system for managing library operations.  
+- Handles book inventory, borrowing, and returning processes.
+
+### 💳 [ATM System](https://github.com/TharushiTaniya/atm-system)
+A functional ATM system built with Java.  
+- Supports balance inquiries, cash withdrawals, and account info management.
 
 ## 🌱 Currently Learning
-- **Microservices Architecture**: Exploring best practices and patterns.
-- **Cloud Technologies**: Delving into AWS and Azure for scalable deployments.
-- **Data Science**: Enhancing my Python skills to analyze and visualize data.
+- **Machine Learning**: Enhancing my understanding of algorithms.
+- **Cloud Technologies**: Diving into AWS and Azure for deployment solutions.
 
 ## 🤝 Let’s Collaborate!
 I’m always open to collaborating on exciting projects, especially those focused on:
-- Open-source contributions
 - Innovative desktop or web applications
-- Knowledge sharing and mentoring opportunities
+- Machine learning initiatives
+- Open-source contributions
 
 ## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourname)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- **Email**: yourname@example.com
+- **LinkedIn**: [Taniya Pathirana](https://www.linkedin.com/in/taniya-pathirana-462833294/)
+- **GitHub**: [TharushiTaniya](https://github.com/TharushiTaniya)
+- **Email**: taniyapathirana05@gmail.com
 
 ## ⚡ Fun Facts
-- I’m a huge fan of sci-fi movies and literature. My favorite book is "Dune" by Frank Herbert! 
-- I love to experiment with new programming languages and frameworks during my downtime.
-- I enjoy hiking and exploring nature; it helps recharge my creative batteries!
+- Sci-fi enthusiast with a love for "Dune" by Frank Herbert.  
+- Passionate about hiking and exploring nature.
