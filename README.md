@@ -19,7 +19,7 @@ A highly motivated Web Developer and Software Engineer with a solid foundation f
 ### Frameworks & Libraries
 - **React**: Building modern web applications.
 - **Angular**: Crafting dynamic UIs.
-- **Spring Boot**: Developing scalable web services.
+- 
 
 ### Tools & Technologies
 - **IDEs**: NetBeans, VS Code
