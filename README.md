@@ -1,59 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Taniya Pathirana - GitHub Profile</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #1f4037, #99f2c8);
+      color: #fff;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      text-align: center;
+      padding: 20px 40px;
+      background: rgba(0, 0, 0, 0.8);
+      border-radius: 15px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    .job-role {
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: #00d1b2;
+      margin: 15px 0;
+    }
+    p {
+      font-size: 1rem;
+      margin: 10px 0;
+    }
+    .github-link {
+      display: inline-block;
+      margin-top: 20px;
+      text-decoration: none;
+      background: #00d1b2;
+      color: #fff;
+      font-weight: bold;
+      padding: 10px 20px;
+      border-radius: 5px;
+      transition: all 0.3s ease;
+    }
+    .github-link:hover {
+      background: #00b99f;
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hello, I'm Taniya 👋</h1>
+    <p class="job-role">Web Developer</p>
+    <p>A passionate Software Engineer dedicated to solving real-world challenges with innovative solutions.</p>
+    <a class="github-link" href="https://github.com/TharushiTaniya" target="_blank">
+      Visit My GitHub Profile
+    </a>
+  </div>
 
+  <script>
+    const roles = ["Software Engineer", "Fullstack Engineer", "Web Developer", "Machine Learning Enthusiast"];
+    const jobRoleElement = document.querySelector(".job-role");
 
-# Hello, 🌍 I'm Taniya 👋
+    let currentIndex = 0;
 
-🌟 About Me  
-A highly motivated Web Developer and Software Engineer with a solid foundation from the Institute of Technology, University of Moratuwa. Skilled in creative thinking, teamwork, and problem-solving, I'm dedicated to applying my knowledge to solve real-world challenges. I enjoy contributing to dynamic projects and continuously keep up with emerging technology trends to deliver effective solutions.
+    function changeRole() {
+      currentIndex = (currentIndex + 1) % roles.length;
+      jobRoleElement.textContent = roles[currentIndex];
+    }
 
-## 🚀 Skills & Technologies
-
-### Languages
-- **Java** (JavaFX)
-- **Python**
-- **JavaScript** (React, Angular)
-- **SQL**
-
-### Web Development
-- **HTML**, **CSS**, **SCSS**, **TypeScript**
-
-### Frameworks & Libraries
-- **React**: Building modern web applications.
-- **Angular**: Crafting dynamic UIs.
-- 
-
-### Tools & Technologies
-- **IDEs**: NetBeans, VS Code
-- **Version Control**: Git, GitHub
-- **Front-end Development**: JavaScript, TypeScript
-
-## 🏆 Notable Projects
-
-### 🥾 [Stride-Smart Footwear Supply Chain](https://github.com/TharushiTaniya/stride-smart)
-A system designed for efficient order monitoring and reduced workplace losses for a footwear company.  
-- Utilized **ReactJS**, **NodeJS**, **SQL**, and **Flutter** for a seamless user experience.
-
-### 📚 [Library Management System](https://github.com/TharushiTaniya/library-system)
-A Java-based system for managing library operations.  
-- Handles book inventory, borrowing, and returning processes.
-
-### 💳 [ATM System](https://github.com/TharushiTaniya/atm-system)
-A functional ATM system built with Java.  
-- Supports balance inquiries, cash withdrawals, and account info management.
-
-## 🌱 Currently Learning
-- **Machine Learning**: Enhancing my understanding of algorithms.
-- **Cloud Technologies**: Diving into AWS and Azure for deployment solutions.
-
-## 🤝 Let’s Collaborate!
-I’m always open to collaborating on exciting projects, especially those focused on:
-- Innovative desktop or web applications
-- Machine learning initiatives
-- Open-source contributions
-
-## 📫 Get in Touch
-- **LinkedIn**: [Taniya Pathirana](https://www.linkedin.com/in/taniya-pathirana-462833294/)
-- **GitHub**: [TharushiTaniya](https://github.com/TharushiTaniya)
-- **Email**: taniyapathirana05@gmail.com
-
-## ⚡ Fun Facts
-- Passionate about hiking and exploring nature.
+    setInterval(changeRole, 3000); // Change job role every 3 seconds
+  </script>
+</body>
+</html>
