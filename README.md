@@ -11,7 +11,7 @@ A passionate Web Developer and Software Engineer from the Institute of Technolog
 - **Java** (JavaFX), **Python**, **JavaScript** (React, Angular), **SQL**  
 
 ### Web Development  
-- **HTML**, **CSS**, **SCSS**, **TypeScript**  
+- **HTML**, **CSS**, **SCSS**, **TypeScript** ,**JavaScript** 
 
 ### Frameworks & Libraries  
 - **React**, **Angular**  
@@ -31,6 +31,8 @@ A Java-based system for managing book inventory and borrowing processes.
 
 ### 💳 **[ATM System](https://github.com/TharushiTaniya/atm-system)**  
 A functional Java-based ATM system supporting withdrawals, balance inquiries, and account management.  
+
+
 
 ---
 
