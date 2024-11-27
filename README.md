@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am an undergraduate at the Institute of Technology, University of Moratuwa, looking for a <b>software engineering<b><br> internship focused on<b> web development.<b> I have strong problem-solving skills and experience building responsive<br> web applications using React.
+ I am an undergraduate at the Institute of Technology, University of Moratuwa, looking for a <b>software engineering</b><br> internship focused on<b> web development.</b> I have strong problem-solving skills and experience building responsive<br> web applications using React.
 
 
 ## 🌐 Socials:
